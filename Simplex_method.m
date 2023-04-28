@@ -3,7 +3,7 @@ nov = 3;
 % c = cost
 c = [-1 3 -2 0 0 0 0];
 info = [3 -1 2; -2 4 0; -4 3 8];
-b = [7;12;10];
+b = [7; 12; 10];
 
 % s = surplus matrix
 s = eye(size(info,1));
